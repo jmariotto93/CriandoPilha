@@ -1,0 +1,15 @@
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\bin\Debug\net6.0\CriandoPilha.exe
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\bin\Debug\net6.0\CriandoPilha.deps.json
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\bin\Debug\net6.0\CriandoPilha.runtimeconfig.json
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\bin\Debug\net6.0\CriandoPilha.dll
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\bin\Debug\net6.0\CriandoPilha.pdb
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.csproj.AssemblyReference.cache
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.AssemblyInfoInputs.cache
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.AssemblyInfo.cs
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.csproj.CoreCompileInputs.cache
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.dll
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\refint\CriandoPilha.dll
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.pdb
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\CriandoPilha.genruntimeconfig.cache
+C:\Users\Jose Mariotto\Documents\visualcode\CriandoPilha\obj\Debug\net6.0\ref\CriandoPilha.dll
